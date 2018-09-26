@@ -9,7 +9,6 @@
   margin: auto;
   font-size: 50px;
   color: gray;
-  padding-top: 100px;
 }
 
 footer{
@@ -35,7 +34,7 @@ footer p{
 }
 
 .box{
-  background-image: url("gif.gif");
+  background-image: url("img.jpg");
   background-repeat: no-repeat; 
   height: 600px;
   width: 100%;
@@ -71,4 +70,10 @@ body{
 .border{
   padding-top: 50px; 
   border-top: 1px solid black;
+}
+.a{
+  color:darkgrey;
+  size: 30px;
+  padding-top: 100px;
+  padding-bottom: 0px;
 }
